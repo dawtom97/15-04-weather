@@ -1,0 +1,7 @@
+.env
+.venv
+.idea
+
+/venv
+/idea
+lisbon1.xlsx
