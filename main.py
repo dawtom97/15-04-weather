@@ -17,5 +17,4 @@ render_dashboard("weather_data.xlsx")
 
 
 
-# aka.ms/studentlabs
-# A541C35ACF4E4015
+
